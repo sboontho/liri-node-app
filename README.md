@@ -8,3 +8,6 @@ What the project does.
      Spotify and OMDB API are included in this project but the Band in town is not completed due to the time constrain for this project. It will be completed in the near future. The users can use this project as a guideline for their own app.
 
 This project will be useful for the users that try to learn Node.js and want to include some useful API in the market. The project will be maintain by Sompon Boontho.
+
+See file Figure1.doc for node command line display. 
+
